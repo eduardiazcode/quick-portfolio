@@ -1,35 +1,38 @@
-## Portfolio
+## Portafolio — Data Analyst
 
 ---
 
-### Category Name 1 
+### Análisis & Visualización de Datos
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dashboard de Energía Solar con Power BI](http://ejemplo.com/)
+[![](/images/proyecto1.jpg?raw=true)](/images/proyecto1.jpg?raw=true)
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Análisis Geoespacial del Potencial Eólico en Perú](http://ejemplo.com/)
+[![](/images/proyecto2.jpg?raw=true)](/images/proyecto2.jpg?raw=true)
 
 ---
 
-
-
+[Simulación Monte Carlo para Estimación de Riesgo Energético](http://ejemplo.com/)
+[![](/images/proyecto3.jpg?raw=true)](/images/proyecto3.jpg?raw=true)
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+### SQL & Python — Proyectos de Limpieza y ETL
+
+- [Automatización de reportes con Python y Pandas](http://ejemplo.com/)
+- [Pipeline ETL desde API a PostgreSQL](http://ejemplo.com/)
+- [Análisis exploratorio de datos climáticos](http://ejemplo.com/)
+
+---
+
+### Certificaciones y Cursos
+
+- Google Data Analytics Certificate
+- Python for Data Science – Coursera
+- SQL para Análisis de Datos – Mode Analytics
+
+---
+
+*Página basada en la plantilla de [evanca](https://github.com/evanca/quick-portfolio)*
