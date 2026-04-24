@@ -2,37 +2,63 @@
 
 ---
 
-### Análisis & Visualización de Datos
+### 📊 Análisis & Visualización de Datos
 
-[Dashboard de Energía Solar con Power BI](http://ejemplo.com/)
-[![](/images/proyecto1.jpg?raw=true)](/images/proyecto1.jpg?raw=true)
+**Sistema de Gestión Financiera — Cooperativa Santa Lucía**
 
----
+Sistema completo de gestión financiera en Google Sheets para una cooperativa de ahorro y crédito local. Automatiza el seguimiento de ingresos, egresos y cronogramas de pago con reportes financieros integrados.
 
-[Análisis Geoespacial del Potencial Eólico en Perú](http://ejemplo.com/)
-[![](/images/proyecto2.jpg?raw=true)](/images/proyecto2.jpg?raw=true)
+**Stack:** Google Sheets · Fórmulas avanzadas · Automatización
 
 ---
 
-[Simulación Monte Carlo para Estimación de Riesgo Energético](http://ejemplo.com/)
-[![](/images/proyecto3.jpg?raw=true)](/images/proyecto3.jpg?raw=true)
+**☀️ Solar Energy Calculator** *(en desarrollo)*
+
+Herramienta en Python para calcular parámetros de sistemas solares fotovoltaicos: producción energética estimada, proyección de ahorros y dimensionamiento de paneles.
+
+**Stack:** Python · Pandas · Matplotlib
+
+[Ver repositorio →](https://github.com/eduardiazcode/Calculadora_Solar)
 
 ---
 
-### SQL & Python — Proyectos de Limpieza y ETL
+**📐 Evaluación Técnico-Económica de Calentadores Solares** *(tesis)*
 
-- [Automatización de reportes con Python y Pandas](http://ejemplo.com/)
-- [Pipeline ETL desde API a PostgreSQL](http://ejemplo.com/)
-- [Análisis exploratorio de datos climáticos](http://ejemplo.com/)
+Investigación de grado que integra análisis geoespacial y simulación Monte Carlo para evaluar la viabilidad de calentadores solares en la región de Puno, con indicadores económicos TIR y VAN.
 
----
-
-### Certificaciones y Cursos
-
-- Google Data Analytics Certificate
-- Python for Data Science – Coursera
-- SQL para Análisis de Datos – Mode Analytics
+**Stack:** Python · Monte Carlo · Análisis Geoespacial · LaTeX
 
 ---
 
-*Página basada en la plantilla de [evanca](https://github.com/evanca/quick-portfolio)*
+### 🛠 Habilidades Técnicas
+
+**Lenguajes:** Python · SQL
+
+**Análisis de Datos:** Pandas · NumPy · Google Sheets · Microsoft Excel
+
+**Visualización:** Matplotlib · Power BI
+
+**Entorno & Herramientas:** Git · Linux · VS Code · LaTeX
+
+---
+
+### 🎓 Formación & Certificaciones
+
+**Bachiller en Ingeniería de Energías Renovables**
+Universidad Nacional de Juliaca (UNAJ)
+
+**Certificaciones — EDteam:**
+- GitHub for Developers — dic. 2025
+- Git — dic. 2025
+- Estadística — dic. 2025
+- Introducción a la Terminal — nov. 2025
+- Microsoft Excel — nov. 2025
+- Power BI — nov. 2025
+
+---
+
+### 📬 Contacto
+
+Disponible para roles de **Data Analyst**, proyectos de **Business Intelligence** y colaboraciones en energía renovable + datos.
+
+[LinkedIn](https://www.linkedin.com/in/eduardodiazdev/) | [GitHub](https://github.com/eduardiazcode) | [eduardoignaciodm@gmail.com](mailto:eduardoignaciodm@gmail.com)
