@@ -272,3 +272,45 @@ a {
   color: #4a5568;
   font-weight: 600;
 }
+
+/* ── Botones sociales sidebar ── */
+.social-links {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.social-btn {
+  display: flex !important;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 12px;
+  border-radius: 6px;
+  font-size: 0.82em;
+  font-weight: 600;
+  text-decoration: none !important;
+  transition: opacity 0.3s ease, transform 0.2s ease;
+  color: #ffffff !important;
+}
+
+.social-btn:hover {
+  opacity: 0.85;
+  transform: translateX(3px);
+}
+
+.social-btn.linkedin {
+  background-color: #0a66c2;
+}
+
+.social-btn.github {
+  background-color: #333333;
+}
+
+.social-btn.email {
+  background-color: #ea4335;
+}
+
+.social-btn i {
+  font-size: 1em;
+}
